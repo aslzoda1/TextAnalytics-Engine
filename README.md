@@ -52,3 +52,6 @@ Smart Text Analyzer — bu katta hajmdagi matnlarni o'rganish, ularning statisti
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FF9800&height=60&section=footer" width="100%"/>
 <b>💎 TRANSFORM DATA INTO INSIGHTS — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
